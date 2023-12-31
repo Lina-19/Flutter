@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47358986697",
+    "firebase_url": "https://signin-example-2486f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "signin-example-2486f",
+    "storage_bucket": "signin-example-2486f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47358986697:android:28edcef23c951ffb06c018",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduNoZM0YjJvL9nex26m_ouqHjKpl_Vgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
